@@ -1,4 +1,4 @@
-# Energy trading contracts
+# Energy Trading Contracts
 
 ## Contracts to demonstrate energy trading use case on Ethereum
 
